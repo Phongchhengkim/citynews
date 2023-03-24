@@ -1,0 +1,19 @@
+READ ME!!!!
+
+Team Member : Phong Chhengkim
+
+Note : If you are login as admin you can delete news data.
+
+
+>>>>LOGIN AS ADMIN:
+
+email : phongchhengkim@gmail.com
+password : chhengkim123
+
+
+
+
+>>>>LOGIN AS EMPLOYEE:
+
+email : e1@gmail.com
+password : e1123
